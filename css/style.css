@@ -22,7 +22,7 @@ h4 {
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
-  
+  background: linear-gradient(317deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%);
   
 }
 
@@ -37,14 +37,14 @@ h4 {
   border: 1px solid #dddd22;
   box-shadow: -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
   background-color: #d9ce02;
-  background: linear-gradient(317deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%);
+  
 }
 
 .dubious {
   border: 1px solid #e009092;
   box-shadow: -1px 1px #e00909, -2px 2px #e00909, -3px 3px #e00909, -4px 4px #e00909, -5px 5px #e00909;
   background-color: #b30000;
-  background: linear-gradient(317deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%);
+  
 }
 
 .column {
